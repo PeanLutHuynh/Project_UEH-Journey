@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UEH_PHIÊU_LƯU_KÝ/1.0.0": {
+        "runtime": {
+          "UEH_PHIÊU_LƯU_KÝ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UEH_PHIÊU_LƯU_KÝ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Sprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sprites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Maps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sprites.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Sprites.cs",
+              "RelativeDocumentMoniker": "Sprites.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Sprites.cs",
+              "RelativeToolTip": "Sprites.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:01:37.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Maps.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Maps.cs",
+              "RelativeDocumentMoniker": "Maps.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Maps.cs",
+              "RelativeToolTip": "Maps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:01:36.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:01:33.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\\u0110\u1ED2 \u00C1N CSLT - UEH PHI\u00CAU L\u01AFU K\u00DD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAL8GAAAAAAAAAAAAAMYGAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:01:24.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
