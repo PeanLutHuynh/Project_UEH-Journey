@@ -91,5 +91,3 @@ This project is inspired by the journey and challenges faced by UEHers. Special 
 
 Enjoy playing **UEH Journey** and relive the graduate journey of a UEHer!
 ```
-
-You can create this file in your repository by adding a file named `README.md` in the root directory and copying the above content into it. Let me know if you'd like assistance with anything else!
