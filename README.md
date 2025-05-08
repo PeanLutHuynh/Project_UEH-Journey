@@ -90,4 +90,3 @@ This project is school project, there's no license at all.
 This project is inspired by the journey and challenges faced by UEHers. Special thanks to the contributors and players who make this project possible.
 
 Enjoy playing **UEH Journey** and relive the graduate journey of a UEHer!
-```
